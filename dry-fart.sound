@@ -1,0 +1,4 @@
+Chance = 0.012
+CustomImage = dry-fart.png
+LockInput = true
+RandomPitch = math.random(1, 1)
