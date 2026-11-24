@@ -1,0 +1,4 @@
+Chance = 0.012
+CustomImage = pop.png
+LockInput = true
+RandomPitch = math.random(0.5, 1.5)
