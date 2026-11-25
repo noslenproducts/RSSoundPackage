@@ -1,4 +1,4 @@
 Chance = 1
-CustomImage = 1.png
+CustomImage = 1.jpg
 LockInput = true
 RandomPitch = math.random(1, 1)
